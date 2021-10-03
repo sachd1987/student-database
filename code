@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream.h>
 using namespace std;
 
 struct student
@@ -9,7 +9,7 @@ struct student
 };
 
 int main() 
-{
+{ //enter imformation about student
     student s;
     cout << "Enter information," << endl;
     cout << "Enter name: ";
