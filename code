@@ -1,15 +1,15 @@
 #include <iostream.h>
 using namespace std;
 
-struct student
+struct student name
 {
     char name[50];
-    int roll;
+    int roll numbers;
     float marks;
 };
 
 int main() 
-{ //enter imformation about student
+{ //enter imformation about students
     student s;
     cout << "Enter information," << endl;
     cout << "Enter name: ";
