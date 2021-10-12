@@ -9,7 +9,7 @@ struct student
 };
 
 int main() 
-{ //enter imformation about student
+{ //enter imformation about students
     student s;
     cout << "Enter information," << endl;
     cout << "Enter name: ";
