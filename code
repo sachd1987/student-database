@@ -12,7 +12,7 @@ int main()
 { //enter imformation about students
     student s;
     cout << "Enter information," << endl;
-    cout << "Enter name: ";
+    cout << "Enter student name: ";
     cin >> s.name;
     cout << "Enter roll number: ";
     cin >> s.roll;
