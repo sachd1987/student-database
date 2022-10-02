@@ -1,9 +1,8 @@
 #include <iostream.h>
 include<conio.h>
-#include<math.h>
 using namespace std;
 
-struct student name
+class student name
 {
     char name[50];
     int roll numbers;
