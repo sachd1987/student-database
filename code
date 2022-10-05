@@ -1,5 +1,7 @@
 #include <iostream.h>
 include<conio.h>
+#include<math.h>
+ main
 using namespace std;
 
 struct student name
@@ -10,7 +12,7 @@ struct student name
 };
 
 int main() 
-{ //enter name imformation about their students
+
     student s;
     cout << "Enter information," << endl;
     cout << "Enter student name: ";
