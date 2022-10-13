@@ -1,7 +1,6 @@
 #include <iostream.h>
 include<conio.h>
 
-#include<math.h>
  
 using namespace std;
 
@@ -10,6 +9,7 @@ class student name
     char name[50];
     int roll numbers;
     int marks;
+    int sno ;
 };
 
 int main() 
