@@ -8,6 +8,7 @@ class student name
 {
     char name[50];
     int roll numbers;
+    int roll numbers;
     int marks;
  patch-3
     int marks;
