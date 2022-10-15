@@ -1,7 +1,6 @@
 #include <iostream.h>
-include<conio.h>
+#include<conio.h>
 
-#include<math.h>
  
 using namespace std;
 
@@ -10,21 +9,26 @@ class student name
     char name[50];
     int roll numbers;
     int marks;
+ patch-3
     int marks;
+
+    int sno ;
+ main
 };
 
 int main() 
 
     student s;
-    cout << "Enter information," << endl;
+    cout << "Enter's information," << endl;
     cout << "Enter student name: ";
     cin >> s.name >>s.roll;
-    cout << "Enter roll number: ";
+    cout << "Enter roll num: ";
     cin >> s.roll;
+    cout << "Enter marks: ";
     cout << "Enter marks: ";
     cin >> s.marks;
 
-    cout << "\nDisplaying Information," << endl;
+    cout << "\nDisplay Information," << endl;
     cout << "Name: " << s.name << endl;
     cout << "Roll: " << s.roll << endl;
     cout << "Marks: " << s.marks << endl;
