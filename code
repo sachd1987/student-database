@@ -21,6 +21,7 @@ int main()
     cout << "Enter roll num: ";
     cin >> s.roll;
     cout << "Enter marks: ";
+    cout << "Enter marks: ";
     cin >> s.marks;
 
     cout << "\nDisplay Information," << endl;
