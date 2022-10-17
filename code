@@ -10,6 +10,7 @@ class student name
     int roll numbers;
     int roll numbers;
     int marks;
+    int marks;
  patch-3
     int marks;
 
