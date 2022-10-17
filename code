@@ -1,22 +1,34 @@
 #include <iostream.h>
 #include<conio.h>
-
+#include<conio.h>
  
 using namespace std;
 
 class student name
 {
+ patch-2
     char name[30];
     int roll numbers;
+
+    char name[50];
+     char name[50];
+    int roll numbers;
+  
+    int marks;
+ main
     int marks;
  patch-3
     int marks;
+ patch-1
+int sno ;
 
+    char name;
+ main
     int sno ;
  main
 };
 
-int main() 
+void main() 
 
     student s;
     cout << "Enter's information," << endl;
@@ -30,7 +42,7 @@ int main()
 
     cout << "\nDisplay Information," << endl;
     cout << "Name: " << s.name << endl;
-    cout << "Roll: " << s.roll << endl;
+    cout << "Roll: " << s.roll;
     cout << "Marks: " << s.marks << endl;
     return 0;
 }
