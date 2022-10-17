@@ -12,7 +12,11 @@ class student name
     int marks;
  patch-3
     int marks;
+ patch-1
+int sno ;
+
     char name;
+ main
     int sno ;
  main
 };
