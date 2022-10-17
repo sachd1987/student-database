@@ -6,11 +6,16 @@ using namespace std;
 
 class student name
 {
+ patch-2
+    char name[30];
+    int roll numbers;
+
     char name[50];
      char name[50];
     int roll numbers;
   
     int marks;
+ main
     int marks;
  patch-3
     int marks;
