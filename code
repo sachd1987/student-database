@@ -9,7 +9,7 @@ class student name
     char name[50];
      char name[50];
     int roll numbers;
-    int roll numbers;
+  
     int marks;
     int marks;
  patch-3
@@ -37,7 +37,7 @@ void main()
 
     cout << "\nDisplay Information," << endl;
     cout << "Name: " << s.name << endl;
-    cout << "Roll: " << s.roll << endl;
+    cout << "Roll: " << s.roll;
     cout << "Marks: " << s.marks << endl;
     return 0;
 }
