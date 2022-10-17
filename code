@@ -12,12 +12,16 @@ class student name
     int marks;
  patch-3
     int marks;
+ patch-1
 int sno ;
+
+    char name;
+ main
     int sno ;
  main
 };
 
-int main() 
+void main() 
 
     student s;
     cout << "Enter's information," << endl;
