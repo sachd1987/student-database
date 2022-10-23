@@ -27,7 +27,7 @@ int sno ;
     int sno ;
  main
 };
-
+//askkkkk
 void main() 
 
     student s;
