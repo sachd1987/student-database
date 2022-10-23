@@ -33,6 +33,7 @@ void main()
     student s;
     cout << "Enter's information," << endl;
     cout << "Enter student name: ";
+    cout << "Enter student name: ";
     cin >> s.name >>s.roll;
     cout << "Enter roll num: ";
     cin >> s.roll;
